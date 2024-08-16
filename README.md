@@ -8,7 +8,7 @@ This is a .NET Desktop Application developed for the .NET Framework 8, requiring
 ## Installation
 
 ### Install .NET Framework 8
-Before running the application, ensure that .NET Framework 8 is installed on your system. You can download .NET Framework 8 [here](https://dotnet.microsoft.com/download/dotnet-framework).
+Before running the application, ensure that .NET Framework 8 is installed on your system. You can download .NET Framework 8 [here](https://dotnet.microsoft.com/en-us/download).
 
 ### Download and Run the Application
 1. Download the latest version of the application from the [Releases page](https://github.com/Belott/SATPG-Sand-Art-Table-Playlist-Generator/releases).
