@@ -13,7 +13,7 @@ Before running the application, ensure that .NET Framework 8 is installed on you
 ### Download and Run the Application
 1. Download the latest version of the application from the [Releases page](https://github.com/Belott/SATPG-Sand-Art-Table-Playlist-Generator/releases).
 2. Extract the downloaded file to a location of your choice.
-3. Double-click the `.exe` file to start the application.
+3. Double-click the `SATPG.exe` file to start the application.
 
 ## Usage
 Please check my Youtube channel to find more information about this tool and the sand art table: https://www.youtube.com/@BINGOBRICKS
