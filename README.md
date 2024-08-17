@@ -1,6 +1,6 @@
 # SATPG - Sand Art Table Playlist Generator
 ## Overview
-SATPG allows you to create playlists for your sand art table that runs with FluidNC firmware.
+With the Sand Art Table Playlist Generator (SATPG), you can quickly create playlists for the sand art table based on the IKEA Lack table and FluidNC firmware. With just a few clicks, you can arrange your best sand pictures in the perfect order. The graphic preview takes the specific properties of a sand art table into account in a way that no other GCODE simulator can. Export your playlist as a GCODE file and play it directly on the FluidNC firmware. This eliminates the need for GCODE players and similar tools.
 
 ## System Requirements
 This is a .NET Desktop Application developed for the .NET Framework 8, requiring at least Windows 7 as the operating system.
