@@ -2,6 +2,8 @@
 ## Overview
 With the Sand Art Table Playlist Generator (SATPG), you can quickly create playlists for the sand art table based on the IKEA Lack table and FluidNC firmware. With just a few clicks, you can arrange your best sand pictures in the perfect order. The graphic preview takes the specific properties of a sand art table into account in a way that no other GCODE simulator can. Export your playlist as a GCODE file and play it directly on the FluidNC firmware. This eliminates the need for GCODE players and similar tools.
 
+![screenshot](https://github.com/user-attachments/assets/9b203311-7842-468e-9975-e3c4aa64c9a8)
+
 ## System Requirements
 This is a .NET Desktop Application developed for the .NET Framework 8, requiring at least Windows 7 as the operating system.
 SATPG creates GCODE files for the FluidNC firmware version 3.8 and higher.
@@ -18,7 +20,9 @@ Before running the application, ensure that .NET Framework 8 is installed on you
 
 ## Usage
 ### Video-Tutorial
-Please check my Youtube channel to find more information about this tool and the sand art table: https://www.youtube.com/@BINGOBRICKS
+Subscribe to my YouTube channel to be informed about new tutorials on SATPG and topics related to the sand art table: https://www.youtube.com/@BINGOBRICKS
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xgYAx2zMGPE/0.jpg)](https://www.youtube.com/watch?v=xgYAx2zMGPE)
 
 ### First Steps
 1. Click on the "Load" button and select a directory that contains GCODE files of your sand images. (SATPG loads all GCODE files into the preselect collection.)
